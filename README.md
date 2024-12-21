@@ -1,55 +1,64 @@
-# Hi there, I'm Mohd Azimuddin! 👋
-
-Welcome to my GitHub profile! I'm a **Fresher Frontend Developer** currently looking for the apportunity,passionate about crafting elegant and user-friendly web interfaces. Here's a little about me and my work:
-
----
-
-## 🚀 About Me
-
-- 🌱 I specialize in creating responsive and accessible web applications.
-- 🎯 Currently improving my skills in **React**.
-- 🤝 Open to collaborating on exciting frontend projects.
-- 🌐 Exploring innovative solutions with modern web technologies.
+# Hi there, I'm **Mohd Azimuddin**! 👋  
+Welcome to my GitHub profile! I’m a **Frontend Developer** passionate about creating elegant, user-friendly web interfaces. Let’s build something amazing together! 🚀  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 **About Me**
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Tools & Platforms:** Git, GitHub, Vs Code
-- **Soft Skills:** Problem-Solving, Team Collaboration, Attention to Detail
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [sfsuper2020@gmail.com](mailto:sfsuper2020@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohd-azimuddin-shaikh-34284b202/]https://www.linkedin.com/in/mohd-azimuddin-shaikh-34284b202/overlay/contact-info/)
+- 🌟 Crafting responsive and accessible web applications is my forte.  
+- 🔭 Currently diving deeper into **React** to master modern web development.  
+- 🤝 Open to collaborating on impactful frontend projects.  
+- 💡 Always exploring innovative solutions using cutting-edge web technologies.  
 
 ---
 
-## 🌟 My GitHub Stats
+## 🛠️ **Tech Stack**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azimuddin&show_icons=true&theme=radical)
+### **Frontend**
+- HTML | CSS | JavaScript | React  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azimuddin&layout=compact&theme=radical)
+### **Tools & Platforms**
+- Git | GitHub | VS Code  
 
----
-
-## 📂 My Projects
-
-Here are some of my projects that showcase my skills:
-
-- **Personal Code Editor**: Description (build with HTML,CSS,JS)
-  - [GitHub Repo](#)
-
-- **Project Name 2**: Description (e.g., an interactive to-do app with vanilla JavaScript)
-  - [GitHub Repo](#)
+### **Soft Skills**
+- 🔍 Attention to Detail | 💡 Problem Solving | 🤝 Team Collaboration  
 
 ---
 
+## 🌐 **Let’s Connect**
+
+- 📧 **Email**: [sfsuper2020@gmail.com](mailto:sfsuper2020@gmail.com)  
+- 💼 **LinkedIn**: [View My Profile](https://www.linkedin.com/in/mohd-azimuddin-shaikh-34284b202/overlay/contact-info/)  
 
 ---
 
-Thank you for visiting my profile! 😊 Feel free to explore my repositories and connect with me for collaboration opportunities.
+## 📊 **GitHub Stats**  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azimuddin&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azimuddin&layout=compact&theme=radical)  
+
+---
+
+## 📂 **Highlighted Projects**
+
+### 🌟 **Personal Code Editor**  
+A sleek, custom code editor built with **HTML, CSS, and JavaScript**.  
+- [View Repository](#)  
+
+### 🌟 **Interactive To-Do App**  
+An intuitive to-do app with vanilla **JavaScript**.  
+- [View Repository](#)  
+
+---
+
+## 🎯 **Goals**  
+
+- 🔹 Master advanced **React** concepts.  
+- 🔹 Contribute to open-source projects that make a difference.  
+- 🔹 Collaborate with like-minded developers to solve challenging problems.  
+
+---
+
+Thank you for stopping by! 😊 Feel free to explore my repositories and let’s connect for exciting opportunities or collaborations. 🌟  
+
+---  
