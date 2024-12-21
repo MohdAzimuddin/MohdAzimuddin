@@ -1,6 +1,6 @@
 # Hi there, I'm Mohd Azimuddin! 👋
 
-Welcome to my GitHub profile! I'm a **Fresher Frontend Developer** passionate about crafting elegant and user-friendly web interfaces. Here's a little about me and my work:
+Welcome to my GitHub profile! I'm a **Fresher Frontend Developer** currently looking for the apportunity,passionate about crafting elegant and user-friendly web interfaces. Here's a little about me and my work:
 
 ---
 
