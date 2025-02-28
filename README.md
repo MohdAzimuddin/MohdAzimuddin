@@ -42,14 +42,14 @@ Somaiya Vidyavihar University, Mumbai
 - Enhanced website accessibility and performance, achieving an A grade on Lighthouse audits for both mobile and desktop.
 - Delivered responsive designs for improved cross-device compatibility.
 - Directly collaborated with clients for requirement gathering and execution.
-
+---
   ### **Tutor - Web Development Instructor**
   **Sep 2023 – Aug 2024**
-  -Taught HTML, CSS, and JavaScript fundamentals to Students.
-  -Helped students build interactive web pages using HTML5, CSS3 and basic JavaSript.
-  -Improved students' programming logic and debugging skills.
+  - Taught HTML, CSS, and JavaScript fundamentals to Students.
+  - Helped students build interactive web pages using HTML5, CSS3 and basic JavaSript.
+  - Improved students' programming logic and debugging skills.
 ---
-
+---
 ## 🌟 Selected Projects
 
 ### [**E-commerce Web Application**](https://azimuddin-clothskart.netlify.app/)  
