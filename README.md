@@ -37,7 +37,7 @@ Somaiya Vidyavihar University, Mumbai
 ## 💼 Experience
 
 ### **Freelance Frontend Developer**
-**Aug 2024 – Fab 2025**
+**Aug 2024 – Present**
 - Developed reusable UI components with React.js and styled components.
 - Enhanced website accessibility and performance, achieving an A grade on Lighthouse audits for both mobile and desktop.
 - Delivered responsive designs for improved cross-device compatibility.
