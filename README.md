@@ -7,14 +7,14 @@
 ---
 
 ## 👋 About Me
+I am a passionate Front-End Developer skilled in React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS. I specialize in building responsive, interactive, and high-performance web applications with a focus on user experience and modern design. Currently, I’m expanding my expertise in Next.js to create even more scalable and SEO-friendly solutions. Driven by innovation and continuous learning, I strive to deliver efficient, visually appealing, and user-centric digital experiences.
 
-As a highly motivated Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.js, I am committed to creating responsive, user-friendly web applications. My passion lies in developing scalable and intuitive solutions that not only meet but exceed user expectations. With a proven ability to adapt to new technologies and work collaboratively, I am eager to contribute to dynamic projects that make an impact.
-
+🚀 Let’s build something amazing!
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages/Libraries:** HTML, CSS, JavaScript, React.js
+- **Languages/Libraries:** HTML, CSS, JavaScript, React.js, Next.js
 - **React Libraries:** React Router DOM, Styled Components, Framer Motion
 - **Version Control:** Git
 - **Development Skills:**
