@@ -2,7 +2,7 @@
 
 🚀 Enthusiastic Frontend Developer | 🌐 Passionate about Responsive Web Design | 🛠️ React.js Specialist
 
-[Portfolio Website](https://mohdazimuddinport.netlify.app) | [LinkedIn](https://linkedin.com/in/mohd-azimuddin-shaikh-34284b202) | [GitHub](https://github.com/MohdAzimuddin)
+[Portfolio Website](https://mohdazimuddinport.netlify.app) | [LinkedIn](https://linkedin.com/in/azeemuddin-shaikh-34284b202) | [GitHub](https://github.com/MohdAzimuddin)
 
 ---
 
