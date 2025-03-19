@@ -1,4 +1,4 @@
-# Mohd Azimuddin - Frontend Developer
+# Mohammed Azeemuddin Shaikh - Frontend Developer
 
 🚀 Enthusiastic Frontend Developer | 🌐 Passionate about Responsive Web Design | 🛠️ React.js Specialist
 
