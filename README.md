@@ -36,8 +36,13 @@ Somaiya Vidyavihar University, Mumbai
 
 ## 💼 Experience
 
+### **Frontend Developer Intern**
+**Bharat Biz Tech | Apr 2025 – Present**
+- Assisting in the development of scalable web applications using React.js and modern frontend technologies.
+- Writing clean, reusable code and debugging issues to ensure a seamless user experience.
+
 ### **Freelance Frontend Developer**
-**Aug 2024 – Present**
+**Aug 2024 – Mar-2025**
 - Developed reusable UI components with React.js and styled components.
 - Enhanced website accessibility and performance, achieving an A grade on Lighthouse audits for both mobile and desktop.
 - Delivered responsive designs for improved cross-device compatibility.
