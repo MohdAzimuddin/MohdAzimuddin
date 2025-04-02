@@ -28,7 +28,7 @@ I am a passionate Front-End Developer skilled in React.js, Next.js, JavaScript (
 
 ## 📚 Education
 
-**Bachelor of Computer Applications (BCA)**  
+**Bachelor of Computer Applications**  
 Somaiya Vidyavihar University, Mumbai  
 2020 – 2023 | CGPA: 7.61
 
