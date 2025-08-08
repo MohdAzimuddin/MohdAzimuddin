@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=UI+Developer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%9A%80;React.js+Developer+%E2%9A%9B%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%92%AB;Building+Digital+Experiences+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Developer Animation"/>
 </div>
@@ -60,8 +61,14 @@ I'm a passionate **Frontend Developer** with expertise in **HTML**, **CSS**, **J
 
 A comprehensive authentication system with email/password login, OAuth (Google & GitHub), protected routes, and real-time session management with dynamic dashboard.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://react-supabse-authentication.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/React_Supabse_Authentication)
+<div align="center">
+  <a href="https://react-supabse-authentication.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/MohdAzimuddin/React_Supabse_Authentication" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</div>
 
 ---
 
@@ -70,8 +77,14 @@ A comprehensive authentication system with email/password login, OAuth (Google &
 
 A fully responsive e-commerce platform with intuitive UI, smooth navigation, cart functionality, and seamless checkout experience.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://azimuddin-clothskart.netlify.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/ClothsKart)
+<div align="center">
+  <a href="https://azimuddin-clothskart.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/MohdAzimuddin/ClothsKart" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</div>
 
 ---
 
@@ -80,8 +93,14 @@ A fully responsive e-commerce platform with intuitive UI, smooth navigation, car
 
 Real-time news aggregator with live content updates, smooth scrolling, and enhanced UX with intuitive navigation features.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://atozlive-news.netlify.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/livenews)
+<div align="center">
+  <a href="https://atozlive-news.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/MohdAzimuddin/livenews" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</div>
 
 ---
 
@@ -90,8 +109,14 @@ Real-time news aggregator with live content updates, smooth scrolling, and enhan
 
 An interactive and visually appealing portfolio showcasing my work, skills, and journey as a frontend developer.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://mohdazimuddinport.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/myportfolio)
+<div align="center">
+  <a href="https://mohdazimuddinport.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/MohdAzimuddin/myportfolio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</div>
 
 </div>
 
@@ -141,10 +166,20 @@ An interactive and visually appealing portfolio showcasing my work, skills, and 
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdazimuddinport.netlify.app){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-azimuddin-shaikh-34284b202){:target="_blank"}
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfsuper2020@gmail.com){:target="_blank"}
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918291443947){:target="_blank"}
+<div align="center">
+  <a href="https://mohdazimuddinport.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohd-azimuddin-shaikh-34284b202" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sfsuper2020@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/918291443947" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 
 </div>
 
