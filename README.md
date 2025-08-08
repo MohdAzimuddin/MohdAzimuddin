@@ -3,9 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=UI+Developer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%9A%80;React.js+Developer+%E2%9A%9B%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%92%AB;Building+Digital+Experiences+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Professional Developer Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Developer Animation"/>
 </div>
 
 ---
@@ -142,10 +141,10 @@ An interactive and visually appealing portfolio showcasing my work, skills, and 
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdazimuddinport.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-azimuddin-shaikh-34284b202)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfsuper2020@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918291443947)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdazimuddinport.netlify.app){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-azimuddin-shaikh-34284b202){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfsuper2020@gmail.com){:target="_blank"}
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918291443947){:target="_blank"}
 
 </div>
 
