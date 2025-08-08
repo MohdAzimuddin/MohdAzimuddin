@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Mohammed Azeemuddin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React.js+Specialist+%E2%9A%9B%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+Digital+Experiences+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=UI+Developer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%9A%80;React.js+Developer+%E2%9A%9B%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%92%AB;Building+Digital+Experiences+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Developer Animation"/>
 </div>
 
 ---
