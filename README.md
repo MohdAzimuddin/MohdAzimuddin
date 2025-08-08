@@ -1,99 +1,160 @@
-# Mohammed Azeemuddin Shaikh - Frontend Developer
+# Hi there! 👋 I'm Mohammed Azeemuddin
 
-🚀 Enthusiastic Frontend Developer | 🌐 Passionate about Responsive Web Design | 🛠️ React.js Specialist
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React.js+Specialist+%E2%9A%9B%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+Digital+Experiences+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
 
-[Portfolio Website](https://mohdazimuddinport.netlify.app) | [LinkedIn](https://linkedin.com/in/azeemuddin-shaikh-34284b202) | [GitHub](https://github.com/MohdAzimuddin)
-
----
-
-## 👋 About Me
-I am a passionate Front-End Developer skilled in React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS. I specialize in building responsive, interactive, and high-performance web applications with a focus on user experience and modern design. Currently, I’m expanding my expertise in Next.js to create even more scalable and SEO-friendly solutions. Driven by innovation and continuous learning, I strive to deliver efficient, visually appealing, and user-centric digital experiences.
-
-🚀 Let’s build something amazing!
----
-
-## 🛠️ Technical Skills
-
-- **Languages/Libraries:** HTML, CSS, JavaScript, React.js, Next.js
-- **React Libraries:** React Router DOM, Styled Components, Framer Motion
-- **Version Control:** Git
-- **Development Skills:**
-  - API Integration
-  - State Management
-  - Context API
-  - SEO-optimized & responsive web apps
-- **Tools:** Visual Studio Code, React Developer Tool, Lighthouse, GitHub, Netlify, Replit
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
 
 ---
 
-## 📚 Education
+## 🌟 About Me
 
-**Bachelor of Computer Applications**  
-Somaiya Vidyavihar University, Mumbai  
-2020 – 2023 | CGPA: 7.61
+I'm a passionate **Frontend Developer** with expertise in **HTML**, **CSS**, **JavaScript**, and **React.js**. I specialize in building responsive and interactive web applications that offer seamless and engaging user experiences. I love turning creative ideas into clean, modern, and functional interfaces.
 
----
-
-## 💼 Experience
-
-### **Frontend Developer Intern**
-**Bharat Biz Tech | Apr 2025 – Present**
-- Assisting in the development of scalable web applications using React.js and modern frontend technologies.
-- Writing clean, reusable code and debugging issues to ensure a seamless user experience.
-
-### **Freelance Frontend Developer**
-**Aug 2024 – Mar-2025**
-- Developed reusable UI components with React.js and styled components.
-- Enhanced website accessibility and performance, achieving an A grade on Lighthouse audits for both mobile and desktop.
-- Delivered responsive designs for improved cross-device compatibility.
-- Directly collaborated with clients for requirement gathering and execution.
-
- ### **Tutor - Web Development Instructor**
- **Sep 2023 – Aug 2024**
-- Taught HTML, CSS, and JavaScript fundamentals to Students.
-- Helped students build interactive web pages using HTML5, CSS3 and basic JavaSript.
-- Improved students' programming logic and debugging skills.
-
----
-## 🌟 Selected Projects
-
-### [**E-commerce Web Application**](https://azimuddin-clothskart.netlify.app/)  
-**React.js | CSS | React Router | Framer Motion**  
-- Designed a responsive platform to showcase and sell classic suits.
-- Implemented cart functionality and coupon code redemption.
-- Utilized React Router for efficient client-side routing and Framer Motion for engaging UI animations.  
-[Source Code](https://github.com/MohdAzimuddin/ClothsKart)
-
-### [**Live News Web Application**](https://atozlive-news.netlify.app/)  
-**React.js | CSS | Framer Motion**  
-- Built a real-time news platform integrating NewsAPI.
-- Provided seamless navigation and implemented an "Up-Button" feature for better UX.
-[Source Code](https://github.com/MohdAzimuddin/livenews)
-
-### [**Code Editor**](https://1codeeditor.netlify.app/)  
-**HTML | CSS | JavaScript**  
-- Created a lightweight, responsive code editor with live preview functionality.
-- Incorporated a section reset feature for convenience.
-[Source Code](https://github.com/MohdAzimuddin/codeeditor)
-
-### [**Personal Portfolio Website**](https://mohdazimuddinport.netlify.app/)  
-**React.js | CSS | Framer Motion | React Icons**  
-- Developed an interactive and visually appealing portfolio.
-- Enhanced UI with animations using Framer Motion.
-[Source Code](https://github.com/MohdAzimuddin/myportfolio)
+- 🎨 **UI/UX Focused:** Creating visually appealing and intuitive designs
+- ⚡ **Performance Optimized:** Building fast, SEO-friendly web applications  
+- 📱 **Responsive Design:** Ensuring perfect experiences across all devices
+- 🚀 **Continuous Learner:** Always exploring new technologies and best practices
+- 🤝 **Collaborative:** Strong team player with excellent communication skills
 
 ---
 
-## 🤝 Strengths
+## 🛠️ Tech Stack
 
-- Expertise in developing SEO-optimized, responsive web applications.
-- Proficiency in creating visually appealing and intuitive UI/UX designs.
-- Quick learner with a dedication to continuous improvement.
-- Strong interpersonal and teamwork skills.
+### 🎨 Frontend Technologies
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</div>
+
+### 🎯 React Ecosystem
+<div align="left">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API"/>
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</div>
 
 ---
 
-### 📫 Contact Me
+## 🏆 Featured Projects
 
-- **Email:** sfsuper2020@gmail.com  
-- **Phone:** +91-8291443947
+<div align="center">
+
+### 🔐 [Supabase Authentication System](https://react-supabse-authentication.vercel.app)
+**React.js • Supabase • Tailwind CSS • Context API**
+
+A comprehensive authentication system with email/password login, OAuth (Google & GitHub), protected routes, and real-time session management with dynamic dashboard.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://react-supabse-authentication.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/React_Supabse_Authentication)
+
+---
+
+### 🛍️ [E-commerce Web Application](https://azimuddin-clothskart.netlify.app/)
+**React.js • CSS • React Router • Framer Motion**
+
+A fully responsive e-commerce platform with intuitive UI, smooth navigation, cart functionality, and seamless checkout experience.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://azimuddin-clothskart.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/ClothsKart)
+
+---
+
+### 📰 [Live News Application](https://atozlive-news.netlify.app/)
+**React.js • CSS • News API • Framer Motion**
+
+Real-time news aggregator with live content updates, smooth scrolling, and enhanced UX with intuitive navigation features.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://atozlive-news.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/livenews)
+
+---
+
+### 💼 [Personal Portfolio](https://mohdazimuddinport.netlify.app)
+**React.js • CSS • Framer Motion • React Icons**
+
+An interactive and visually appealing portfolio showcasing my work, skills, and journey as a frontend developer.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0066CC?style=for-the-badge&logo=github-pages&logoColor=white)](https://mohdazimuddinport.netlify.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdAzimuddin/myportfolio)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 **Frontend Developer Intern** - *Bharat Biz Tech*
+*April 2025 – Present*
+- Developed the official company website, enhancing digital presence
+- Built a comprehensive School Management System with interactive dashboard
+- Implemented responsive design principles for optimal cross-device compatibility
+
+### 💡 **Freelance Frontend Developer**
+*August 2024 – March 2025*
+- Delivered optimized web solutions for 5+ clients, boosting performance by 30%
+- Created reusable React.js components, improving development efficiency
+- Achieved A-grade Lighthouse audits for both mobile and desktop performance
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+*Somaiya Vidyavihar University, Mumbai*  
+📅 2020 – 2023 | 🎯 CGPA: 7.61
+
+---
+
+## 🌟 What Sets Me Apart
+
+<div align="center">
+
+| 🎯 **Expertise** | 📱 **Design Focus** | ⚡ **Performance** | 🤝 **Collaboration** |
+|:---:|:---:|:---:|:---:|
+| SEO-optimized web apps | Responsive design mastery | High-performance solutions | Strong team player |
+| Clean, maintainable code | Accessibility compliance | Lighthouse optimization | Client-focused approach |
+| Modern UI/UX patterns | Cross-browser compatibility | Fast loading times | Continuous learning |
+
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects and connect with fellow developers!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdazimuddinport.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-azimuddin-shaikh-34284b202)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfsuper2020@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918291443947)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by Mohammed Azeemuddin</sub>
+</div>
