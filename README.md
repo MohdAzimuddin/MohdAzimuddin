@@ -135,8 +135,8 @@ An interactive and visually appealing portfolio showcasing my work, skills, and 
 
 ### 🚀 **Frontend Developer Intern** - *Bharat Biz Tech*
 *April 2025 – Augest 2025*
-- Collaborated and Developed the official Bharat Biz Tech website UI, enhancing the company's digital presence
-- Collaborated and built a comprehensive School Management System user interface from scratch, incorporating interactive functionalities
+- Collaborated on and developed the official Bharat Biz Tech website UI, enhancing the company's digital presence
+- Collaborated on and built a comprehensive School Management System user interface from scratch, incorporating interactive functionalities
 - Implemented responsive design principles ensuring cross-device compatibility and optimal user experience
 
 ### 💡 **Freelance Frontend Developer**
