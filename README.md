@@ -125,17 +125,26 @@ An interactive and visually appealing portfolio showcasing my work, skills, and 
 
 ## 💼 Professional Experience
 
+### 🚀 **Associate Frontend Developer** - *Customer Capital Pvt Ltd*
+*September 2025 – Present*
+- Working on the frontend development of loyalty-driven services, focusing on scalable and maintainable UI architecture
+- Collaborating closely with cross-functional teams to develope, implement, and enhance user-facing features
+- Debugging and resolving frontend issues to ensure smooth and responsive user experiences
+- Enhancing existing features for better performance and usability based on quality analytics insights
+- Contributing to the development of new features from concept to deployment, following modern development best practices
+
 ### 🚀 **Frontend Developer Intern** - *Bharat Biz Tech*
-*April 2025 – Present*
-- Developed the official company website, enhancing digital presence
-- Built a comprehensive School Management System with interactive dashboard
-- Implemented responsive design principles for optimal cross-device compatibility
+*April 2025 – Augest 2025*
+- Collaborated and Developed the official Bharat Biz Tech website UI, enhancing the company's digital presence
+- Collaborated and built a comprehensive School Management System user interface from scratch, incorporating interactive functionalities
+- Implemented responsive design principles ensuring cross-device compatibility and optimal user experience
 
 ### 💡 **Freelance Frontend Developer**
 *August 2024 – March 2025*
-- Delivered optimized web solutions for 5+ clients, boosting performance by 30%
-- Created reusable React.js components, improving development efficiency
-- Achieved A-grade Lighthouse audits for both mobile and desktop performance
+- Developed optimized web solutions for 5+ clients, boosting site performance by 30%
+- Designed and implemented reusable React.js components, improving development efficiency
+- Collaborated closely with clients to define project goals and deliver tailored solutions
+- Created pixel-perfect, mobile-friendly UIs ensuring a seamless user experience
 
 ---
 
